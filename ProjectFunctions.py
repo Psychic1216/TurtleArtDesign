@@ -41,3 +41,4 @@ def middle(t,distance,side):
         square(t,distance)
         t.left(50)
 
+ 
